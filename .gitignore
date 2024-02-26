@@ -1,2 +1,6 @@
 .env
 node_modules 
+rootca.crt
+rootca.csr
+rootca.key
+uploads
